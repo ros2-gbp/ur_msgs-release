@@ -128,4 +128,5 @@ tracks:
     ros_distro: rolling
     vcs_type: git
     vcs_uri: https://github.com/ros-industrial/ur_msgs.git
-    version: :{auto}
+    version: 2.0.0
+    version_saved: :{auto}
