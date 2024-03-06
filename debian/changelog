@@ -1,0 +1,113 @@
+ros-rolling-ur-msgs (2.0.0-3noble) noble; urgency=high
+
+  * Porting to ros2 (#12 <https://github.com/destogl/ur_msgs/issues/12>)
+  * Document pin mapping in SetIO service (#16 <https://github.com/destogl/ur_msgs/issues/16>)
+  * Contributors: Denis Štogl, Felix Exner, gavanderhoorn
+
+ -- G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>  Tue, 12 Apr 2022 00:00:00 -0000
+
+ros-rolling-ur-msgs (1.3.4-3noble) noble; urgency=high
+
+  * Bump CMake version to ignore warning
+  * Contributors: gavanderhoorn
+
+ -- G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>  Tue, 25 May 2021 00:00:00 -0000
+
+ros-rolling-ur-msgs (1.3.3-3noble) noble; urgency=high
+
+  * Migrate to Github Actions
+  * Fix SetPayload srv separater invalid (#10 <https://github.com/ros-industrial/ur_msgs/issues/10>)
+  * Contributors: Chen Bainian, gavanderhoorn
+
+ -- G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>  Tue, 25 May 2021 00:00:00 -0000
+
+ros-rolling-ur-msgs (1.3.2-3noble) noble; urgency=high
+
+  * Fix domain constants in ``Analog.msg`` (#8 <https://github.com/ros-industrial/ur_msgs/issues/8>)
+  * Contributors: Gaël Écorchard
+
+ -- G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>  Mon, 12 Oct 2020 00:00:00 -0000
+
+ros-rolling-ur-msgs (1.3.1-3noble) noble; urgency=high
+
+  * Change ``payload`` field name to ``mass`` (#5 <https://github.com/ros-industrial/ur_msgs/issues/5>)
+  * Added ``center_of_gravity`` field to ``SetPayload`` service (#2 <https://github.com/ros-industrial/ur_msgs/issues/2>)
+  * Mark package as architecture independent (#1 <https://github.com/ros-industrial/ur_msgs/issues/1>)
+  * Contributors: Felix Exner, gavanderhoorn
+
+ -- G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>  Wed, 24 Jun 2020 00:00:00 -0000
+
+ros-rolling-ur-msgs (1.3.0-3noble) noble; urgency=high
+
+  * First release of this package from its new repository.
+  * Contributors: gavanderhoorn
+
+ -- G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>  Mon, 22 Jun 2020 00:00:00 -0000
+
+ros-rolling-ur-msgs (1.2.7-3noble) noble; urgency=high
+
+
+
+ -- G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>  Sat, 23 Nov 2019 00:00:00 -0000
+
+ros-rolling-ur-msgs (1.2.6-3noble) noble; urgency=high
+
+  * Added a service to set the speed slider position (#454 <https://github.com/ros-industrial/universal_robot/issues/454>)
+  * Added a domain field to Analog.msg (#450 <https://github.com/ros-industrial/universal_robot/issues/450>)
+  * Migrated all package.xml files to format=2 (#439 <https://github.com/ros-industrial/universal_robot/issues/439>)
+  * Contributors: Felix Mauch
+
+ -- G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>  Tue, 19 Nov 2019 00:00:00 -0000
+
+ros-rolling-ur-msgs (1.2.5-3noble) noble; urgency=high
+
+  * Correct width and type of 'digital_*_bits'. (#416 <https://github.com/ros-industrial/universal_robot/issues/416>)
+  * Clarify use of fields in SetIO svc. (#415 <https://github.com/ros-industrial/universal_robot/issues/415>)
+  * Update maintainer listing: add Miguel (#410 <https://github.com/ros-industrial/universal_robot/issues/410>)
+  * Add RobotModeDataMsg (#395 <https://github.com/ros-industrial/universal_robot/issues/395>)
+  * Update maintainer and author information.
+  * Contributors: Felix von Drigalski, gavanderhoorn
+
+ -- G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>  Fri, 05 Apr 2019 00:00:00 -0000
+
+ros-rolling-ur-msgs (1.2.1-3noble) noble; urgency=high
+
+
+
+ -- G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>  Sat, 06 Jan 2018 00:00:00 -0000
+
+ros-rolling-ur-msgs (1.2.0-3noble) noble; urgency=high
+
+
+
+ -- G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>  Fri, 04 Aug 2017 00:00:00 -0000
+
+ros-rolling-ur-msgs (1.1.9-3noble) noble; urgency=high
+
+  * No changes.
+
+ -- G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>  Mon, 02 Jan 2017 00:00:00 -0000
+
+ros-rolling-ur-msgs (1.1.8-3noble) noble; urgency=high
+
+  * all: update maintainers.
+  * Contributors: gavanderhoorn
+
+ -- G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>  Fri, 30 Dec 2016 00:00:00 -0000
+
+ros-rolling-ur-msgs (1.1.7-3noble) noble; urgency=high
+
+  * Add message definition for ToolData.
+  * Contributors: Nikolas Engelhard
+
+ -- G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>  Thu, 29 Dec 2016 00:00:00 -0000
+
+ros-rolling-ur-msgs (1.1.6-3noble) noble; urgency=high
+
+  * Moved SetIO FUN constants from driver.py to relevant srv file for easier interaction from other files
+  * catkin_lint
+  * Contributors: Thomas Timm Andersen, ipa-fxm
+
+ -- G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>  Fri, 01 Apr 2016 00:00:00 -0000
+
+
