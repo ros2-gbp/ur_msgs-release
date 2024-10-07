@@ -2,6 +2,14 @@
 Changelog for package ur_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.0.1 (2024-10-07)
+------------------
+* [ROS 2] Update README and ci (`#31 <https://github.com/ros-industrial/ur_msgs/issues/31>`_)
+* Add a service to set an analog output (`#30 <https://github.com/ros-industrial/ur_msgs/issues/30>`_)
+* Added service for getting the software version of the robot. (`#25 <https://github.com/ros-industrial/ur_msgs/issues/25>`_)
+* ci: bump checkout and cache (`#23 <https://github.com/ros-industrial/ur_msgs/issues/23>`_)
+* Contributors: Felix Exner, G.A. vd. Hoorn, URJala
+
 2.0.0 (2022-04-12)
 ------------------
 * Porting to ros2 (`#12 <https://github.com/destogl/ur_msgs/issues/12>`_)
