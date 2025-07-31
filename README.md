@@ -1,3 +1,26 @@
+## ur_msgs (rolling) - 2.3.0-1
+
+The packages in the `ur_msgs` repository were released into the `rolling` distro by running `/home/feex/.local/bin/bloom-release ur_msgs --rosdistro rolling` on `Thu, 31 Jul 2025 07:23:50 -0000`
+
+The `ur_msgs` package was released.
+
+Version of package(s) in repository `ur_msgs`:
+
+- upstream repository: https://github.com/ros-industrial/ur_msgs.git
+- release repository: https://github.com/ros2-gbp/ur_msgs-release.git
+- rosdistro version: `2.2.0-1`
+- old version: `2.2.0-1`
+- new version: `2.3.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## ur_msgs (humble) - 2.2.0-1
 
 The packages in the `ur_msgs` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble ur_msgs` on `Mon, 17 Mar 2025 09:44:50 -0000`
