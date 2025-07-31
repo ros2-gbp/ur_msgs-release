@@ -1,3 +1,26 @@
+## ur_msgs (humble) - 2.3.0-1
+
+The packages in the `ur_msgs` repository were released into the `humble` distro by running `/home/feex/.local/bin/bloom-release ur_msgs --rosdistro humble` on `Thu, 31 Jul 2025 07:49:53 -0000`
+
+The `ur_msgs` package was released.
+
+Version of package(s) in repository `ur_msgs`:
+
+- upstream repository: https://github.com/ros-industrial/ur_msgs.git
+- release repository: https://github.com/ros2-gbp/ur_msgs-release.git
+- rosdistro version: `2.2.0-1`
+- old version: `2.2.0-1`
+- new version: `2.3.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## ur_msgs (jazzy) - 2.3.0-1
 
 The packages in the `ur_msgs` repository were released into the `jazzy` distro by running `/home/feex/.local/bin/bloom-release ur_msgs --rosdistro jazzy` on `Thu, 31 Jul 2025 07:33:42 -0000`
