@@ -2,6 +2,11 @@
 Changelog for package ur_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.5.0 (2026-03-26)
+------------------
+* Add service for setting gravity vector (`#39 <https://github.com/ros-industrial/ur_msgs/issues/39>`_)
+* Contributors: AdamPettinger
+
 2.4.0 (2026-03-20)
 ------------------
 * Add a service to set friction model parameters (`#40 <https://github.com/ros-industrial/ur_msgs/issues/40>`_)
