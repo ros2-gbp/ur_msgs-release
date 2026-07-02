@@ -1,3 +1,26 @@
+## ur_msgs (kilted) - 2.6.0-1
+
+The packages in the `ur_msgs` repository were released into the `kilted` distro by running `/home/feex/.local/bin/bloom-release ur_msgs --rosdistro kilted` on `Thu, 02 Jul 2026 11:37:43 -0000`
+
+The `ur_msgs` package was released.
+
+Version of package(s) in repository `ur_msgs`:
+
+- upstream repository: https://github.com/ros-industrial/ur_msgs.git
+- release repository: https://github.com/ros2-gbp/ur_msgs-release.git
+- rosdistro version: `2.5.0-1`
+- old version: `2.5.0-1`
+- new version: `2.6.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## ur_msgs (jazzy) - 2.6.0-1
 
 The packages in the `ur_msgs` repository were released into the `jazzy` distro by running `/home/feex/.local/bin/bloom-release ur_msgs --rosdistro jazzy` on `Thu, 02 Jul 2026 11:34:27 -0000`
