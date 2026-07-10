@@ -2,9 +2,10 @@
 Changelog for package ur_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-2.6.0 (2026-07-02)
+3.0.0 (2026-07-02)
 ------------------
-* Add inertia matrix and transition_time support to set_payload service (`#43 <https://github.com/ros-industrial/ur_msgs/issues/43>`_)
+* [BREAKING[ Add inertia matrix and transition_time support to set_payload service   (`#42 <https://github.com/ros-industrial/ur_msgs/issues/42>`_)
+  Replace mass/cog fields with Inertia and add transition_time in SetPayload
 * Action definition for executing scripts via primary client (`#45 <https://github.com/ros-industrial/ur_msgs/issues/45>`_)
 * Increase minimum CMake version (`#41 <https://github.com/ros-industrial/ur_msgs/issues/41>`_)
 * Contributors: Felix Exner, Sergi Romero, URJala
