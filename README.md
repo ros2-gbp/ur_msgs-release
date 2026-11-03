@@ -1,3 +1,26 @@
+## ur_msgs (lyrical) - 2.7.0-1
+
+The packages in the `ur_msgs` repository were released into the `lyrical` distro by running `/home/feex/.local/bin/bloom-release ur_msgs --rosdistro lyrical` on `Tue, 03 Nov 2026 10:50:57 -0000`
+
+The `ur_msgs` package was released.
+
+Version of package(s) in repository `ur_msgs`:
+
+- upstream repository: https://github.com/ros-industrial/ur_msgs.git
+- release repository: https://github.com/ros2-gbp/ur_msgs-release.git
+- rosdistro version: `2.6.0-1`
+- old version: `2.6.0-1`
+- new version: `2.7.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.4`
+- catkin_pkg version: `1.1.1`
+- rosdep version: `0.27.0`
+- rosdistro version: `1.1.0`
+- vcstools version: `0.1.42`
+
+
 ## ur_msgs (rolling) - 3.1.0-1
 
 The packages in the `ur_msgs` repository were released into the `rolling` distro by running `/home/feex/.local/bin/bloom-release ur_msgs --rosdistro rolling` on `Tue, 03 Nov 2026 09:30:05 -0000`
