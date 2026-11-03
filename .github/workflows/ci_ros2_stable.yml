@@ -16,10 +16,9 @@ jobs:
 
     strategy:
       matrix:
-        ros_distro: [rolling]
-        ros_repo: [main, testing]
+        ros_distro: [humble, jazzy, kilted, lyrical]
+        ros_repo: [main]
 
-      fail-fast: false
     env:
       CCACHE_DIR: "${{ github.workspace }}/.ccache"
 
